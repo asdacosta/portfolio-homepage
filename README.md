@@ -36,7 +36,7 @@
 
 **Tablet View:**
 
-<img src="./readme-assets/desktop.png" alt="tablet view">
+<img src="./readme-assets/tablet.png" alt="tablet view">
 <br>
 
 **Mobile View:**
