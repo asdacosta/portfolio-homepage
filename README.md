@@ -36,12 +36,12 @@
 
 **Tablet View:**
 
-<img src="./readme-assets/desktop.png" alt="desktop view">
+<img src="./readme-assets/desktop.png" alt="tablet view">
 <br>
 
 **Mobile View:**
 
-<img src="./readme-assets/mobile.png" alt="desktop view">
+<img src="./readme-assets/mobile.png" alt="mobile view">
 
 </details>
 
